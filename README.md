@@ -1,4 +1,4 @@
-# fastapi_sqlAlchemy_core_sqlite
+# Fastapi + sqlAlchemy Core + Sqlite
 
 
 A Rest API example project with:
@@ -7,6 +7,7 @@ A Rest API example project with:
  + SQLite as db 
 
 Please install requirements first 
+
   pip install -r requirements.txt
 
 
