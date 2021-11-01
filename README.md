@@ -10,7 +10,3 @@ Please install requirements first
 
   pip install -r requirements.txt
 
-
-
-  
-  
